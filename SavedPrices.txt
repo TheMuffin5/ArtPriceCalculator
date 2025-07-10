@@ -1,0 +1,10 @@
+!Important! Make sure all prices are formatted as seen below otherwise they will not display properly(Also keep the example for the same reason)!
+Art Piece 1: $0.0
+Art Piece 2: $0.0
+Art Piece 3: $0.0
+Art Piece 4: $0.0
+Piece one: $145.29
+
+l: $0.0
+q: $81.11
+qww: Base Cost: $55.32    With 50% profit: $82.99
